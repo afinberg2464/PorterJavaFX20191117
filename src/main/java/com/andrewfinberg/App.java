@@ -18,7 +18,6 @@ public class App extends Application {
     *** Do not change this code ***
     The methods below are used by JavaFX to launch the application
      */
-
     private static Scene scene;
 
     static void setRoot(String fxml) throws IOException {
